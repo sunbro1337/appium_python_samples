@@ -1,0 +1,5 @@
+pytest_samples
+allure
+.pytest_cache
+.idea
+__pycache__
